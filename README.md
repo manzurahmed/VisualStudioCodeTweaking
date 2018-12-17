@@ -15,7 +15,7 @@ I also install few Extension for the ease of my coding.
 
 ### 1. phpcs
 
-### 2. Better Align: by "wwm"
+### 2. Better Align - by "wwm"
 
 There's no built-in shortcut comes with the extension, you have to add shotcuts by yourself:
 
@@ -28,6 +28,8 @@ Add something similar like this:
 }
 ```
 
-### 3. PHP IntelliSense: by "Felix Becker"
+### 3. Better Comments - by Aaron Bond
 
-### 4. PHP Debug: by "Felix Becker"
+### 4. PHP IntelliSense - by "Felix Becker"
+
+### 5. PHP Debug: by "Felix Becker"
