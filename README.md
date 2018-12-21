@@ -33,3 +33,8 @@ Add something similar like this:
 ### 4. PHP IntelliSense - by "Felix Becker"
 
 ### 5. PHP Debug: by "Felix Becker"
+
+## How to update VisualStudio Code
+
+1. Un-install VisualStudio Code.
+2. Download **NEW** version and **Re-install** VisualStudio Code.
