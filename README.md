@@ -34,7 +34,11 @@ Add something similar like this:
 
 ### 5. PHP Debug: by "Felix Becker"
 
-## How to update VisualStudio Code
+### 6. WordPress Snippet
+
+This VSCode plugin is maintained by TungVN.
+
+# How to update VisualStudio Code
 
 1. Un-install VisualStudio Code.
 2. Download **NEW** version and **Re-install** VisualStudio Code.
