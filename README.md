@@ -52,3 +52,19 @@ In Visual Studio Code editor, click File -> Preferences -> Settings. In this pag
 "php.executablePath": "/opt/lampp/bin/php"
 "php.validate.executablePath": "/opt/lampp/bin/php"
 ```
+
+### Fix "Code Runner" Error in PHP
+
+There is an extension in VS Code named, "Code Runner". I can run JS, PHP, etc. code from inside VS Code. While running PHP code file, it gives "/bin/sh: php: command not found". There is a nice explanation in StackOverflow website (https://stackoverflow.com/questions/43009623/php-command-not-found).
+
+```
+Whenever you install XAMPP, you get all of the Apache, MySQL, PHP stack. The problem is, XAMPP won't link binaries to your PATH, because your could have another version of that software already installed.
+
+Composer needs a PHP version available on your PATH, so the easier option is to link your already installed version of PHP.
+
+I think you can find your PHP binary in /opt/llamp/bin so you can link it this way:
+
+sudo ln -s /opt/llamp/bin/php /usr/bin/php
+
+Hope it works!
+```
