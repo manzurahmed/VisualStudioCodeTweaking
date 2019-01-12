@@ -42,3 +42,13 @@ This VSCode plugin is maintained by TungVN.
 
 1. Un-install VisualStudio Code.
 2. Download **NEW** version and **Re-install** VisualStudio Code.
+
+### User Settings
+
+In Visual Studio Code editor, click File -> Preferences -> Settings. In this page, find a link "Edit in settings.json" and paste the following settings.
+
+```js
+"editor.wordWrap": "on",
+"php.executablePath": "/opt/lampp/bin/php"
+"php.validate.executablePath": "/opt/lampp/bin/php"
+```
