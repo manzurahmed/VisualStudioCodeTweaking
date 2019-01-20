@@ -38,6 +38,15 @@ Add something similar like this:
 
 This VSCode plugin is maintained by TungVN.
 
+### 7. Prettier - Developer: Esben Petersen
+
+```json
+"editor.formatOnSave": false,
+"[javascript]": {
+    "editor.formatOnSave": true
+}
+```
+
 # How to update VisualStudio Code
 
 1. Un-install VisualStudio Code.
