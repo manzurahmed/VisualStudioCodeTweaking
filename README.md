@@ -41,7 +41,7 @@ This VSCode plugin is maintained by TungVN.
 ### 7. Prettier - Developer: Esben Petersen
 
 ```json
-"editor.formatOnSave": false,
+"editor.formatOnSave": true,
 "[javascript]": {
     "editor.formatOnSave": true
 }
@@ -77,3 +77,17 @@ sudo ln -s /opt/llamp/bin/php /usr/bin/php
 
 Hope it works!
 ```
+
+### npm
+### npm Intellisense
+### jshint
+### ESLint (Works with ESLint)
+### TSLink (Works with TypeScript)
+### Debugger for Chrome
+### Git Lens
+### IntelliSense for CSS class names
+### JavaScript (ES6) code snippets
+### Path Intellisense
+### Quokka.js (JavaScript Inline Error Indicator)
+### Open in Browser
+### Live server
