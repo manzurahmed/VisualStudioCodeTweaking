@@ -1,5 +1,11 @@
 # VisualStudioCodeTweaking
 
+## Install VS Code
+
+Start "Add/Remove Software" from start menu and search for "visual-studio-code-bin" in AUR. Install VS Code from the search result.
+
+## What to do after installing VS Code
+
 After install Visual Studio Code in your PC, I use the following tweaking to its settings/preferences in a way I feel comfortable.
 
 ## Tweaking
