@@ -48,9 +48,6 @@ This VSCode plugin is maintained by TungVN.
 
 ```json
 "editor.formatOnSave": true,
-"[javascript]": {
-    "editor.formatOnSave": true
-}
 ```
 
 # How to update VisualStudio Code
@@ -64,7 +61,7 @@ In Visual Studio Code editor, click File -> Preferences -> Settings. In this pag
 
 ```js
 "editor.wordWrap": "on",
-"php.executablePath": "/opt/lampp/bin/php"
+"php.executablePath": "/opt/lampp/bin/php",
 "php.validate.executablePath": "/opt/lampp/bin/php"
 ```
 
